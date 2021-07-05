@@ -1,0 +1,76 @@
+{
+	"clothes/sale": [
+		{
+			"name": "ropa infantil niño 1",
+			"size": "S",
+			"colour": "red,white",
+			"cloth": "cotton",
+			"price": {
+				"amount": 22,
+				"currency": "PEN"
+			},
+			"bulk": {
+				"from": 3,
+				"amount": {
+					"amount": 20,
+					"currency": "PEN"
+				}
+			}
+		},
+		{
+			"name": "ropa infantil niña 2",
+			"size": "M",
+			"colour": "red,blue",
+			"cloth": "cotton",
+			"price": {
+				"amount": 22,
+				"currency": "PEN"
+			},
+			"bulk": {
+				"from": 3,
+				"amount": {
+					"amount": 20,
+					"currency": "PEN"
+				}
+			}
+		}
+	],
+	"clothes": [
+		{
+			"name": "ropa infantil niño 1",
+			"size": "S",
+			"colour": "red,white",
+			"cloth": "cotton",
+			"price": {
+				"amount": 22,
+				"currency": "PEN"
+			},
+			"bulk": {
+				"from": 3,
+				"amount": {
+					"amount": 20,
+					"currency": "PEN"
+				}
+			}
+		},
+		{
+			"name": "ropa infantil niña 2",
+			"size": "M",
+			"colour": "red,blue",
+			"cloth": "cotton",
+			"price": {
+				"amount": 22,
+				"currency": "PEN"
+			},
+			"bulk": {
+				"from": 3,
+				"amount": {
+					"amount": 20,
+					"currency": "PEN"
+				}
+			}
+		}
+	]
+	
+	
+}
