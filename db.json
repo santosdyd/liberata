@@ -37,8 +37,14 @@
 			}
 		]
 	},
-	"user": {
-		"id": "asanchez",
-		"name": "Alfredo Sánchez"
-	}
+	"users": [
+		{
+			"id": "asanchez",
+			"name": "Alfredo Sánchez"
+		},
+		{
+			"id": "mvasquez",
+			"name": "Marilyn Vasquez"
+		}
+	]
 }
