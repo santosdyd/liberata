@@ -1,6 +1,5 @@
 {
-	"clothes": {
-		"scanned": [
+	"clothesScanned": [
 			{
 				"name": "ropa infantil niño 1",
 				"size": "S",
@@ -35,8 +34,7 @@
 					}
 				}
 			}
-		]
-	},
+		],
 	"users": [
 		{
 			"id": "asanchez",
