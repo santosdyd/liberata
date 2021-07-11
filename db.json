@@ -2,6 +2,7 @@
 	"clothesScanned": [
 			{
 				"name": "ropa infantil niño 1",
+				"image": "https://m.media-amazon.com/images/I/71ZL+Rgw4aL._AC_SX385._SX._UX._SY._UY_.jpg",
 				"size": "S",
 				"colour": "red,white",
 				"cloth": "cotton",
@@ -19,6 +20,7 @@
 			},
 			{
 				"name": "ropa infantil niña 2",
+				"image":"https://images-na.ssl-images-amazon.com/images/I/71IRqoJJDsL._AC_UX522_.jpg",
 				"size": "M",
 				"colour": "red,blue",
 				"cloth": "cotton",
