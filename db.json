@@ -1,5 +1,5 @@
 {
-	"clothesScanned": [
+	"clothesScanned": {"data":[
 			{
 				"name": "ropa infantil niño 1",
 				"image": "https://m.media-amazon.com/images/I/71ZL+Rgw4aL._AC_SX385._SX._UX._SY._UY_.jpg",
@@ -36,7 +36,7 @@
 					}
 				}
 			}
-		],
+		]},
 	"users": [
 		{
 			"id": "asanchez",
